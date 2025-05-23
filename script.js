@@ -1,4 +1,4 @@
-const apiUrl = 'https://YOUR_REAL_API_URL/items';
+const apiUrl = https://68302a5bf504aa3c70f69ada.mockapi.io/inventory-api/items';
 
 const form = document.getElementById('item-form');
 const list = document.getElementById('inventory-list');
